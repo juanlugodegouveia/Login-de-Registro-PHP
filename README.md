@@ -1,8 +1,8 @@
-# Login de Registro PHP
+# PHP Registration Login
 
-Login de Registro, creado con PHP y MySQL. Como desarrollador Web es muy probable que soliciten proyectos de este tipo.
+Registration Login, created with PHP and MySQL. As a web developer you are very likely to request projects of this type.
 
-Un diseño simple con el cual podrían guisarse para futuros proyectos, la intención es dar una idea de como podrían realizarlo y ahorrar tiempo.
+A simple design with which they could be cooked for future projects, the intention is to give an idea of how they could do it and save time.
 
 ## Copyright
 
